@@ -6,3 +6,8 @@ pasta
 noodles
 cake
 soup
+
+beans
+pizza
+
+thankyou:)
